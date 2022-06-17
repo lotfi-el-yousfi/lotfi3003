@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lotfi3003&label=Profile%20views&color=0e75b6&style=flat" alt="lotfi3003" /> </p>
 
-- 🔭 I’m currently working on **MY CIRCET**
+- 🔭 I’m currently working on **MY CIRCET (STACK: NODEJS,VUEJS,VUETIFY,EXPRESS JS,MYSQL,PYTHON  )**
 
 - 🌱 I’m currently learning **python machine learning**
 
-- 👯 I’m looking to collaborate on **FLUTTER projects**
+- 👯 I’m looking to collaborate on **BIG PROJECTS**
 
 - 💬 Ask me about **vuejs ,nodejs ,reactjs,mongodb,flutter,python,c#,.net,asp.net**
 
