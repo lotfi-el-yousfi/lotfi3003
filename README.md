@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **MY CIRCET (STACK: NODEJS,VUEJS,VUETIFY,EXPRESS JS,MYSQL,PYTHON  )**
 
-- 🌱 I’m currently learning **python machine learning**
+- 🌱 I’m currently learning ** DEVOPS and python machine learning**
 
 - 👯 I’m looking to collaborate on **BIG PROJECTS**
 
