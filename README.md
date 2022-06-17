@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python machine learning**
 
-- 👯 I’m looking to collaborate on **flutter project**
+- 👯 I’m looking to collaborate on **FLUTTER projects**
 
 - 💬 Ask me about **vuejs ,nodejs ,reactjs,mongodb,flutter,python,c#,.net,asp.net**
 
